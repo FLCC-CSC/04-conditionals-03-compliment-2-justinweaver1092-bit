@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Justin Weaver    
+# DATE: 10/2/25
+# BRIEF DESCRIPTION: Compliment2   
 
 
 
@@ -14,7 +14,13 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
+compliment = input('Would you like a compliment?: ')
+if (compliment == 'yes'):
+    print('You have wonderful eyes.')
+else:
+    print('No compliment for you!')
+          
+print('Thank you for playing.')
 
 
 
@@ -70,7 +76,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+NO
 
 
 
