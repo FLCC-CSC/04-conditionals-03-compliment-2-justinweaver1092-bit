@@ -20,7 +20,7 @@ if (compliment == 'yes'):
 else:
     print('No compliment for you!')
           
-print('Thank you for playing')
+print('Thank you for playing.')
 
 
 
